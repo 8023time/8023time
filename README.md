@@ -3,7 +3,7 @@
  <h2 align="center">寻觅~流光</h2>
 </p>
 
-<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://cdn.jsdelivr.net/gh/8023time/image-storage-address/basic-img/background.svg" /></a>
 **8023time/8023time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
