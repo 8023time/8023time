@@ -3,9 +3,6 @@
  <h2 align="center">寻觅~流光</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
-
-## Hi there 👋
-
 **8023time/8023time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
