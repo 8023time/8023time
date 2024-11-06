@@ -4,7 +4,7 @@
 </p>
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://cdn.jsdelivr.net/gh/8023time/image-storage-address/basic-img/background.svg" /></a>
-**8023time/8023time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**8023time/8023time** 
 
 Here are some ideas to get you started:
 
