@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.jsdelivr.net/gh/8023time/image-storage-address/basic-img/avatar.jpg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
+ <h2 align="center">My GitHub</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
 
