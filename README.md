@@ -8,7 +8,7 @@
   </div>
 
   <!-- 标题 -->
-  <h1 style="
+  <h1 style="a
     font-size: 1.8em;
     font-weight: 500;
     font-family: 'Segoe UI', 'Courier New', monospace;
@@ -18,7 +18,7 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-shadow: 0 0 30px rgba(255, 107, 157, 0.2);">
-    <a href="https://8023time.github.io" style="text-decoration: none; color: inherit;">✨ 寻觅~流光 ✨</a>
+    <a href="https://8023time.github.io" target="_blank" style="text-decoration: none; color: inherit;">✨ 寻觅~流光 ✨</a>
   </h1>
 
   <!-- 背景图片 -->
