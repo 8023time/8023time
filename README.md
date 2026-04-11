@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
 
   <!-- 头像 -->
-  <img width="160px" src="./assets/avatar.jpg" alt="Avatar" style="border-radius: 50%;margin: 20px 0 10px 0;"/>
+  <div align="center">
+    <img width="160px" src="./assets/avatar.jpg"  />
+  </div>
 
   <!-- 标题 -->
   <h1 style="
