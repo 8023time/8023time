@@ -27,11 +27,7 @@
   <!-- 技能图标 -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,threejs" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,pinia,babel,vite,vitest,webpack" />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,postgres,prisma" />
-      <img src="https://skillicons.dev/icons?i=git,npm,pnpm" />
-      <img src="https://skillicons.dev/icons?i=vscode,notion,figma" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,threejs,react,nextjs,vue,svelte,pinia,babel,vite,vitest,webpack,nodejs,express,nestjs,go,postgres,prisma,git,npm,pnpm,vscode,notion,figma" />
     </a>
 </p>
 </div>
